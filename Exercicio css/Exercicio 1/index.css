@@ -1,0 +1,13 @@
+header {
+  background-color: forestgreen;
+  border-radius: 6px;
+}
+
+main {
+  background-color: khaki;
+  border-radius: 5px;
+}
+
+img {
+  border-radius: 6px;
+}

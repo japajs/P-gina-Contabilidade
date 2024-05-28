@@ -1,0 +1,19 @@
+h2 {
+  color: cadetblue;
+}
+
+h1 {
+  color: cadetblue;
+}
+
+nav,
+footer {
+  background-image: url(fundo.jpg);
+  border-radius: 6px;
+}
+
+li {
+  background-color: rgb(176, 238, 224);
+  border-radius: 12px;
+  margin-top: 4px;
+}
